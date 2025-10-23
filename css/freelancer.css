@@ -46,18 +46,6 @@ hr.star-light, hr.star-primary {
 	font-family: 'Roboto', sans-serif;
 }
 
-/* This adds a shape (\f005 = Star) between the lines present below the section headers */
-/*hr.star-light:after,
-hr.star-primary:after {
-	content: "\f005";
-	display: inline-block;
-	position: relative;
-	top: -.8em;
-	padding: 0 .25em;
-	font-family: FontAwesome;
-	font-size: 2em;
-}*/
-
 hr.star-light {
 	border-color: #fff;
 }
@@ -73,7 +61,7 @@ hr.star-primary {
 
 hr.star-primary:after {
 	color: #2c3e50;
-	background-color: #fff;
+	background-color: #FFF;
 }
 
 .img-centered {
